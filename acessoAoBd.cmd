@@ -1,0 +1,1 @@
+mysql -u root --database valter_nodejs

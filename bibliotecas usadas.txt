@@ -1,0 +1,14 @@
+body-parser 		->  npm install body-parser --save
+express-validator	->  npm install express-validator --save
+mocha				->  npm install -g mocha
+supertest			->	npm install supertest --save-dev
+						npm install -S passport-local
+						npm install -S bcrypt
+
+valter freire de carvalho
+brasileiro
+casado
+rua joao moura 1347 ap 14 pinheiros Sao paulo
+cpf 822.613.183.91
+rg 95.002.284.290
+
