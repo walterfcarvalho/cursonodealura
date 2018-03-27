@@ -6,5 +6,5 @@ app.set("io", io);
 
 var porta = process.env.PORT || 3000;
 http.listen(porta, function() {
-    console.log('Example app listening at http://%s:%s', host, port)
+    console.log('Example app listening na porta:', port)
 })
